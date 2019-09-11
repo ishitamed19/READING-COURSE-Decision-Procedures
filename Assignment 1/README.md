@@ -18,6 +18,7 @@
 To execute `python <program_name>.py`
 
 #### See Screenshots
+[img src="Screenshot%202019-09-11%20at%207.13.12%20PM.png"]
 
 Sample input to CNF/DNF convert-
  `[["p","and","r"],"if",[["not","p"],"or","r"]]`
