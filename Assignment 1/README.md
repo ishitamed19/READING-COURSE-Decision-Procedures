@@ -15,6 +15,12 @@
 
 ### Example
 
+To execute `python <program_name>.py`
+
+Enter input and press enter for the output
+
+To exit, press `Ctrl+C`
+
 Sample input to CNF/DNF convert-
  `[["p","and","r"],"if",[["not","p"],"or","r"]]`
  
