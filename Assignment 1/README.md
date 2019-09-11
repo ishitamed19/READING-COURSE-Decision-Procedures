@@ -18,11 +18,10 @@
 To execute `python <program_name>.py`
 
 #### See Screenshots
-![]("https://raw.githubusercontent.com/ishitamed19/READING-COURSE-Decision-Procedures/master/Assignment%201/Screenshot%202019-09-11%20at%207.13.12%20PM.png")
-
-![]("ttps://raw.gihthubusercontent.com/ishitamed19/READING-COURSE-Decision-Procedures/master/Assignment%201/Screenshot%202019-09-11%20at%207.13.32%20PM.png")
 
 <img src="https://raw.githubusercontent.com/ishitamed19/READING-COURSE-Decision-Procedures/master/Assignment%201/Screenshot%202019-09-11%20at%207.13.12%20PM.png">
+
+<img src="https://raw.githubusercontent.com/ishitamed19/READING-COURSE-Decision-Procedures/master/Assignment%201/Screenshot%202019-09-11%20at%207.13.32%20PM.png">
 
 Sample input to CNF/DNF convert-
  `[["p","and","r"],"if",[["not","p"],"or","r"]]`
