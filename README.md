@@ -6,3 +6,7 @@ TODO:
 - [X] Implement SAT solver for DNF formula
 - [X] Implement SAT solver (dpll) for CNF formula
 - [X] Implement a program to convert a WFF into CNF and DNF
+
+## Assignment 2
+- [X] Implement any two heuristics - JW, VSDL
+- [X] Create a CNF to DIMACS format parser
